@@ -4,7 +4,7 @@ A reusable capital-investment analysis model for evaluating a proposed soft-drin
 
 > **Portfolio focus:** financial modeling, investment analysis, Excel/VBA automation, risk analysis, and management reporting.
 
-![Investment Analysis Dashboard](assets/investment-dashboard.png)
+![Investment Analysis Dashboard](investment-dashboard.pdf)
 
 ## Business case
 
